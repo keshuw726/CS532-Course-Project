@@ -1,1 +1,1 @@
-# CS532-Course-Project
+# CS532-Course-Project-Asteroids-Classification
