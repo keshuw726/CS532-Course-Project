@@ -13,3 +13,6 @@ Files in the repository:
 1. CS532_Project_Asteroids_Classification.ipynb - the major part of the project including the data preprocessing and the three algorithms.
 2. CS532_Project_SVM_parameter_tuning.ipynb - the parameter tuning part of the kernel based SVM algorithms.
 3. data/nasa.csv - the raw data.
+
+To run the code:
+- Download the full repository and simply run the jupyter notebook files.
