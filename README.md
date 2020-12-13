@@ -7,7 +7,7 @@ used for each algorithm. The effectiveness of the models will be evaluated. The 
 find the best classifier to classify the potential asteroids as hazardous or non-hazardous. Finally, the
 best method and strategy will be proposed for the future applications.
 
-%
+
 Files in the repository:
 1. CS532_Project_Asteroids_Classification.ipynb - the major part of the project including the data preprocessing and the three algorithms.
 2. CS532_Project_SVM_parameter_tuning.ipynb - the parameter tuning part of the kernel based SVM algorithms.
